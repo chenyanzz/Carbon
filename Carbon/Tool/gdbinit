@@ -1,0 +1,3 @@
+target remote localhost:1234
+file Build/Build/kernel.elf
+b BootEntry

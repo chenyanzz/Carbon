@@ -1,0 +1,1 @@
+start .\scripts\debug.bat
