@@ -1,13 +1,7 @@
 */cmake-build-debug/
 */.vscode/
-Carbon/src/.idea/
-Carbon/src/.vscode/
-<<<<<<< HEAD
+*/.idea/
 
-*/build
-\.idea/
-=======
-Carbon/src/cmake-build-debug/
->>>>>>> cyOS_merged
+*/build/
 
-Carbon/src/CMakeCache\.txt
+*/*.img

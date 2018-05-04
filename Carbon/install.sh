@@ -10,6 +10,8 @@ echo "Compiling source"
 cd Build
 cmake ../
 make
+strip $BUILD/kernel.elf
+
 echo "Generate image"
 cd $ROOT
 cp $GRUB $TARGET
